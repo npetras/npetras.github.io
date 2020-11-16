@@ -1,3 +1,2 @@
 # npetras.github.io
-GitHub Pages Website
-The mark-up for my personal website.
+The mark-up for my personal GitHub Pages website.
